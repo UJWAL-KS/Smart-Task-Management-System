@@ -1,4 +1,4 @@
-# Task Management System
+ # Task Management System
 
 ## Overview
 
@@ -56,9 +56,9 @@ task-management-system/
 ├── src/
 │   ├── main/
 │   │   └── java/
-│   │       └── banquemisr/
-│   │           └── challenge05/
-│   │               └── taskmanagementsystem/
+│   │       └── com/
+│   │           └── ujwalks/
+│   │               └── taskmanager/
 │   │                   ├── config
 │   │                   ├── controller
 │   │                   ├── domain
@@ -72,15 +72,15 @@ task-management-system/
 │   │                   ├── service
 │   │                   └── util
 │   │                   └── ServletInitializer.java
-│   │                   └── TaskManagementSystemApplication.java
+│   │                   └── taskmanger.java
 │   ├── test/
 │   │   └── java/
-│   │       └── banquemisr/
-│   │           └── challenge05/
-│   │               └── taskmanagementsystem
+│   │       └── com/
+│   │           └── ujwalks/
+│   │               └── taskmanager
 │   │                   ├── controller/     (Test classes for controllers)
 │   │                   ├── service/        (Test classes for services)
-│   │                   └── TaskManagementSystemApplicationTests.java (Main test class)
+│   │                   └── taskmangerApplicationTests.java (Main test class)
 │   └── resources/      (Configuration files and other resources)
 │       └── application.properties
 └── pom.xml               (Project configuration file with dependencies)
